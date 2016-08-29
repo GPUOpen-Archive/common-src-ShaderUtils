@@ -25,7 +25,7 @@
 #include "d3d11tokenizedprogramformat.hpp"
 #include "boost/format.hpp"
 #include "boost/foreach.hpp"
-#include "../GDT_Memory.h"
+#include "../Misc/GDT_Memory.h"
 
 using namespace std;
 using boost::format;
